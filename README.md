@@ -115,5 +115,6 @@ After setting up the project, you can start using the API. Use tools like Postma
 
 ## Stay in touch
 
-- Author - [Abdulatif Hashash](https://www.linkedin.com/in/abdallatif-hashash-8aa594202/)
+- Author - [Abdulatif Hashash](https://www.linkedin.com/in/abdulatif-hashash-8aa594202/)
+- Portfolio - [website](https://abdulatifhashash.site/)
 
